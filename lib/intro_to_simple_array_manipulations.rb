@@ -8,8 +8,10 @@ end
 
 def using_pop(array)
   array.pop
+  return array
 end
 
-def using_pop(array)
+def using_pop(rray)
   array.pop(2)
+  return array
 end
